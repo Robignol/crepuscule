@@ -1,0 +1,894 @@
+
+::selection  {
+  background-color: #000000;
+  color: white;
+  text-shadow: normal;
+}
+
+@font-face {
+  font-family: Archivo;
+  src: url(https://fonts.googleapis.com/css?family=Archivo&display=swap);
+}
+
+@font-face {
+  font-family: Archivo Black;
+  src: url(https://fonts.googleapis.com/css?family=Archivo+Black&display=swap);
+}
+
+(())
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/roboto-mono-v7-latin-regular.ttf') format('truetype'),
+   }
+
+))
+font-family: 'Archivo', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Roboto Mono',
+
+
+
+}
+
+}
+
+
+h1 {
+
+}
+
+
+h1 {
+  text-align: left;
+  font-family:"archivo black", sans-serif;
+  color: #ffffff;
+  margin-bottom: .3em; padding-left: 0px;
+ font-size: 10vw; letter-spacing: 5px;
+ font-style: bold;
+  margin-top: -40px;
+  margin-left: -55px;
+  padding-left: 0px ;
+}
+
+
+
+h2 { font-family: "Archivo", sans-serif; color:#ffffff; background-color: #000000; font-size: 5vw ; font-style: italic; text-align: right;
+margin-right:-15px; margin-top: -40px; padding-top: 10px; display: block; text-decoration: none !important;
+  }
+
+h3 { font-family: "Archivo", sans-serif; font-size: 5vw ; font-style: italic; text-align: left; color: #ff944d;
+ margin-bottom: 10px; letter-spacing: 1px;
+}
+
+h6 { font-family: "Archivo", sans-serif; font-size: 8vw !important;
+ font-style: normal; text-align: right; color: #ff944d;
+letter-spacing: 1px;
+}
+
+body {
+font-family: "Archivo", sans-serif; background-color: #000000; font-size: 3vw; margin: 60px 60px; cursor: crosshair;
+}
+
+.index { color: white; font-family: "roboto mono", monospace; ;margin-top:42px ; padding:0px; float : right; text-align: right;width:40%; font-size:50%;
+}
+.index-fullscreen {  width: 10%;margin-top: 0px ; padding:0px;
+}
+
+.BIG_1_INTRO {
+
+  margin-top: 25vh; /* poussé de la moitié de hauteur de viewport */
+    transform: translateY(-40%);  /* tiré de la moitié de sa propre hauteur */
+
+}
+
+.BLANCO-01 {  color: white; font-family: "Archivo", sans-serif; ;margin:0px ; padding:0px;
+}
+
+.texte00intro {  color: white;
+  font-family: "roboto mono", monospace;
+  font-style: normal;
+  width:50%;
+    float: right;
+    clear: left;
+    font-size: 85%;
+    margin-top: 40px;
+  padding-right: 35vw;
+  padding-bottom:20px;
+  padding-left:0px;
+  display: block;
+  float: right;
+  clear:both;
+
+}
+
+
+.LINKS-01 {  text-align: left; font-family: "Archivo",serif; font-size: 70%; margin-top: 0%;     margin-left:2%;
+}
+
+
+#DEMARRER { font-size: 6vw; font-family: "archivo";
+  text-align: right;
+}
+
+
+p span {font-size: 6vw; font-family: archivo;
+  text-align: right; color: #ff944d;
+}
+
+.monTexte {
+  font-family:"Archivo";
+  color:#ffffff;
+  writing-mode: vertical-rl;
+  text-orientation: sideways-right;
+  font-size: 40%;
+  margin-left: -10%;
+  margin-top:-12%;
+  padding-right:0px;padding-top: 40px;
+  float: left;
+  width: 100px;
+  letter-spacing: 3px;
+
+}
+
+
+.DRIVING_PERSON {
+  max-width: 100%;
+  height: auto;
+  width:50%;
+    margin-left:2%;
+  float:left; display:inline; width: 49%;
+ }
+
+.BLANCO-02 {
+  font-family: "roboto mono", monospace; background-color: #000000; font-size: 3vw; margin-top: -120px; color: white;
+    font-style: normal;
+    width:35% ; float: right; text-align: right;
+}
+
+.BLANCO-01 {
+  font-family:"roboto mono",monospace;
+    width:40%;
+    font-size:80% ;
+float:right; display:inline;
+    text-align: left;
+    margin-top: -10px;
+
+
+}
+
+.arabic-1-intro {
+   color:white;
+    font-size:80%;
+    float: right;
+    text-align: right;
+    margin-top: 4%;
+
+}
+.arabic-rabbit {
+  float: left;
+  width:30%;
+   color:white;
+    font-size:2vw ;
+    text-align: right;
+    margin-top: 70px;
+margin-left: -50px;
+}
+
+.arabic-JLD {
+   color:white;
+    font-size:3vw ;
+    width: 50%;
+    float: left;
+    display: block;
+    text-align: right;
+margin-left: 0px;
+margin-top: -43vw;
+padding-right: 60px;
+font-style: normal;
+}
+.clearfix{
+    clear:both
+}
+
+ .TXT_R_RBT_FONCE {
+color: white;
+ font-family: "roboto mono", monospace;
+    width:50%;
+    float: right;
+    text-align: left;
+    padding-right: 130px;
+    font-size: 3vw;
+    padding-top:10px;
+    padding-left:10px;
+    margin-left:10px;
+    font-style:normal;
+    }
+
+.YOYOYOYOYOOYYOYTTT {
+    font-family: "archivo";
+
+}
+
+.TXT_R_RBT_DETOURNE {
+color: white;
+  font-family:"roboto mono",monospace;
+    width:55%;
+    float: right;
+    text-align: left;
+    padding-right: 50px;
+    font-size: 3vw;
+    padding-top:10px;
+    padding-left:10px;
+    margin-left:10px;
+    font-style:normal;
+    margin-right:40px
+    }
+
+.TXT_R_R_RBT_FONCE {
+color: white;
+  font-family:"roboto mono",monospace;
+    width:55%;
+    float: left;
+    text-align: right;
+    font-size: 2vw;
+    font-style:normal;
+    margin-top:100px;
+    }
+
+
+.tu-arrives-en-ville {
+  width:80%;
+  display: block;
+  float: right;
+  text-align: right;
+font-family: "Archivo", serif; font-size: 5vw; font-style: normal; padding-left: 5%;margin-top: 10%;
+}
+
+.CAR_VERTICAL_D_RBT_F {
+  max-width: 100%;
+  height: auto;
+  width:30%;
+  float: right;
+  margin-top:-3%;
+  display: block;
+  margin:0;
+  padding-left: 10%;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  text-decoration-color:#ff944d;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+section:hover {
+  text-decoration: underline dotted;
+  text-decoration-color:#ff944d;
+}
+.slanted {
+  font-size: 70vw;
+  text-transform: uppercase;
+  transform: rotate(-7deg)
+             skew(-5deg);
+  background-color: black;
+  font-family: "roboto mono", monospace;
+  margin-left: -90px;
+  font-stretch: condensed;
+
+}
+
+.CRASH {
+color: white; font-family: "roboto mono", monospace;
+    width:100%;
+    text-align: middle;
+    padding-right: 0px;
+    font-size: 50vw;
+    padding-top:0px;
+    padding-left:0px;
+    margin-left:0px;
+
+    margin-right:0px
+    }
+
+.DRIFT {  float: left; text-align: left;
+  margin-top: 0vh;
+  padding-top:1vh;
+  width:30%;
+  max-width: 100%;
+     padding-bottom:20px;
+     padding-right:35px;
+ }
+.SKELLY {  float: right;
+   text-align: right;
+   width: 50%;
+   margin-top:-30%;
+   max-width: 100%;
+   margin-right:-6vh;
+   padding-bottom:5%;
+   padding-right:-50px;
+
+  }
+  .arabic-DT-CRASH { color:white; font-size: 2vw; font-style: normal; padding-left: 5vw;text-align: right;margin-top: -90px; width:50%; text-decoration: none;
+   }
+
+  .SMOKE {  float: left;
+    text-align: left; margin-left:0px;
+    max-width: 100%;
+    width: 50%;
+    padding-top: 5vw;
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+   }
+
+.LIEVRE {  max-width: 100%; width:100%;
+  margin-top: 30vh; /* poussé de la moitié de hauteur de viewport */
+    transform: translateY(-40%);  /* tiré de la moitié de sa propre hauteur */
+
+ }
+
+
+.RABBBIT { max-width: 100%;
+ width:40%;
+ float: left; margin-top:-30px;
+}
+
+.RABBBBIT{ max-width: 100%;
+ width:40%;
+ float: left; margin-top:-30px;
+}
+
+ .clearfix{
+    clear:both
+}
+
+
+.BLANCO_RABBBIT { color: white; font-family: "roboto mono", monospace; ;margin-top:-15px ; padding:0px;
+    width:40%;
+    float: right;
+    text-align: right;
+}
+
+.LINKS_RABBBIT { text-align: left; float: left; display:block; margin-top: -15px ; margin-left: -30px;font-size:2vw;
+}
+
+.BLUR {  max-width: 100%; width:94%;
+  display: block;
+   margin-left: auto;
+   margin-right: auto }
+
+
+.ROAD_OPTI {
+  max-width: 100%;
+  height: auto;
+  width:30%;
+  display: block;
+  margin-top: -60px;
+}
+
+.CLIC-INTRO {
+  max-width: 100%;
+  height: auto;
+  width:40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: auto;
+}
+
+.DRIVING22 { max-width: 100%;
+  height: auto;
+  width:80%;
+  margin-left: auto;
+  margin-right: 300px;
+  margin-top: -80px;
+  margin-bottom: 50px;
+
+
+}
+.DEAD_END_FAST_DETOURNE {
+  max-width: 100%;
+  height: auto;
+  width:40%;
+  float: right;
+  display: block;
+margin-top:400px; margin-left: 150px;
+}
+
+.DEAD_END_DT {
+  max-width: 120%;
+  height: auto;
+  width:120%;
+  display: block;
+  margin-left: auto;
+  margin-right: 300px;
+  margin-top: 300px;
+  margin-bottom: 50px;
+}
+
+.ALONE {
+  max-width: 100%;
+  height: auto; width:40%;
+  margin-top: 20px;
+  padding-right: 130px;
+    padding-left: 10px;
+  padding-top:30px;
+  float:right;
+    display: block;
+  }
+
+.TXT_JE_RALENTIS { color: white; font-family: "roboto mono", monospace;
+    width:50%;
+    float: right;
+    text-align: left;
+    padding-right: 130px;
+    font-size: 2vw;
+    padding-top:10px;
+    padding-left:20px;
+    margin-left:10px;
+    font-style:normal;
+    TTtext-align: justify;
+ TT text-justify: inter-word;
+  }
+
+.NETFLIX {
+  max-width: 100%;
+  height: auto; width:40%;
+  margin-top: 0px;
+  padding-left: 90px;
+  padding-top: 30px
+  margin-top: 30px;
+  float:left;
+    display: block;
+  }
+
+
+.clearfix{
+    clear:both
+}
+
+
+
+.TEXT_NETFLIX { color: white; font-family: "roboto mono",monospace;
+    width:40%;
+    float: right;
+    text-align: left;
+    padding-right: 130px;
+    font-size: 2vw;
+    padding-top:10px;
+    padding-left:20px;
+    margin-left:10px;
+    font-style:normal;
+
+
+}
+
+.CADRANT {
+  max-width: 100%;
+  height: auto;
+  width:43%;
+  margin-left:0%;
+  margin-top: -29vw;
+  float: left;
+  display: block;
+}
+
+
+
+.blanco_J_R_RBT_JF_3 { color: white; font-family: "roboto mono",monospace;
+    width:60%;
+    float: left;
+    text-align: left;
+    font-style:normal;
+    font-size: 2vw;
+    margin-left: 50px;
+    padding-top: 50px; padding-bottom:50px;
+    }
+.SKELLY-JR_3 {  float: right;
+   text-align: right;
+   width: 50%;
+   margin-top:-30%;
+   max-width: 100%;
+   margin-right:-8vh;
+   padding-bottom:5%;
+   padding-right:-50px;
+   }
+.AMBLANCE-JR_3 {
+  max-width: 100%;
+  height: auto;
+  width:45%;
+  display: block;
+}
+.SIRENE-JR_3 {
+  max-width: 100%;
+  height: auto;
+  width:35%;
+  float left;
+  display: block;
+  padding-left:150px;
+}
+
+.CRAC { color: white; font-family: "archivo";
+    width:50%;
+    float: left
+    display: block;
+    text-align: left;
+    font-size: 7vw;
+    font-style:normal;
+    z-index: 5;
+    margin-top: 30px;
+    padding-top:30px;
+    margin-left:-10px;
+    cursor:help;
+  }
+  .CRAC:hover {
+    text-decoration: underline dotted;
+    text-decoration-color:#ff944d;
+  }
+
+.arabic-J_R_3 {
+  font-family:"Archivo";
+  color:#ffffff;
+  font-size: 2vw;
+  text-align: right;
+  width: 30%;
+  font-style:normal;
+  float: right; display: block;
+      z-index: 100;
+      margin-left:30px;
+  }
+
+.DEM {
+  font-family:"Archivo";
+  color:#ff944d;
+  font-size: 10vw ;
+  text-align: right;
+  float: right;
+  margin-top: -8vw;
+}
+
+.LIGNES {
+  max-width:120%;
+  width:110%;
+  margin-left:;
+  margin-right: -5vw;
+  float: right;
+}
+.CITY_CAR_OPTI {
+  width:33%;
+  float: right; display: block;
+  margin-top: -100px;
+  padding-top:20px;
+}
+.MAN_CAR {
+  width:43%;
+  float: left;
+  display: block;
+}
+.blanco_VILLE { color: white; font-family: "roboto mono",monospace;
+    width:50%;
+    float: right;
+    text-align: left;
+    font-style:normal;
+    font-size: 2vw;
+    padding-top: 50px; padding-bottom:50px;
+    }
+
+.arabic-FONCE_VILLE{
+   color:white;
+    font-size:3vw ;
+    float: left;
+    display: block;
+    text-align: right;
+font-style: normal;
+margin-top:-10vw;
+}
+
+.img-responsive .centree {
+ margin: 0 auto;
+}
+
+
+.grid-container {
+  margin-left: 4%;
+  margin-top: 10%;
+  display: grid;
+grid-template-columns: repeat(3, 30%);
+  grid-gap: 12px;
+-- - -background-color: #2196F3;
+  padding: 10px;
+
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+
+  font-size: 2vw;
+  font-family: "robotomono"monospace;
+}
+
+.TEST {width: 100%;opacity: 0.7; font-family: "robotomomonospace;
+}
+.TEST:hover {opacity: 1}
+
+.TEST_1 {color:white; width: 90%; margin-top: 60%;text-decoration: underline dotted; text-decoration-color: #ff944d
+}
+
+.TRIO_TXT_LEFT {line-height: 140%; font-size: 55%; padding-top: 10px; text-align: right;
+}
+.TRIO_TXT_LEFT:hover {text-decoration: none;}
+
+
+
+.TXT_MID {color:white; width: 90%; text-decoration: underline dotted; text-decoration-color: #ff944d;
+}
+.TRIO_TXT_MID {line-height: 140%; font-size: 55%; padding-top: 10px; text-align: right;
+}
+.TRIO_TXT_MID:hover {text-decoration: underline dotted; text-decoration-color: #ff944d;}
+
+
+.TXT_RIGHT {color:white; width: 90%; margin-top:55%;text-decoration: underline dotted; text-decoration-color: #ff944d;
+}
+.TRIO_TXT_RIGHT {line-height: 140%; font-size: 55%; padding-top: 10px; text-align: left;
+}
+
+
+
+
+
+.FOG {width: 45%; margin-top:400%; margin-left:30%;
+}
+
+.blanco_D_F_TONY { color: white; font-family: "roboto mono",monospace;
+    width:40%;
+    float: left;
+    text-align: left;
+    font-style:normal;
+    font-size: 2vw;
+    margin-left: 50px; margin-bottom:10px;
+    padding-top: 50px; padding-bottom:50px;
+    }
+
+  .SKELLY-D_F_TONY {  float: right;
+     width: 50%;
+     margin-top:-60%;
+     max-width: 100%;
+     margin-right:-8vh;
+     padding-bottom:5%;
+     padding-right:-50px;
+     }
+
+.blanco-d-f-margot{ color: #ff944d; font-family: "archivo",monospace;
+    width:40%;
+    float: right;
+display:inline;
+
+    position: absolute; z-index: 4;
+
+    text-align: right;
+    font-style:normal;
+    font-size: 3vw;
+    margin-left: 25px; margin-bottom:10px; margin-right:-20px; margin-top:30px;
+    padding-top: 50px; padding-bottom:50px;
+    }
+
+  .arabic-D_F_MARGOT{
+     color:white;
+      font-size:60% ;
+      float: right;
+      display: block;
+      text-align: right;
+  font-style: normal;
+  margin-top:20%;
+  width:40%;
+  padding-bottom:7%;
+  }
+
+  .D_F_LILIAN_car {
+    width:30%;
+    float: left; display: block;
+  }
+
+.SIRENE-D_F_LILIAN {
+  max-width: 100%;
+  height: auto;
+  width:35%;
+  float left;
+  display: block;
+  padding-left:150px;
+  margin-bottom:5%;
+  }
+
+  .AMBLANCE-LILIAN{
+    max-width: 100%;
+    height: auto;
+    width:45%;
+    display: block;
+    margin-bottom:10%; margin-top:10%;
+  }
+
+.arabic-D_F_LILIAN {
+   color:white;
+    font-size:60% ;
+    float: right;
+    display: block;
+    text-align: center;
+font-style: normal;
+margin-top:20%; margin-bottom:10%;
+width:100%;
+padding-bottom:7%;
+}
+
+.arabicccccc{
+   color:white;
+    font-size:60% ;
+    float: right;
+    display: block;
+    text-align: center;
+font-style: normal;
+margin-top:10%;
+width:100%;
+padding-bottom:7%;
+}
+
+.blancocococcooc-end-margot { color: white; font-family: "archivo",monospace;
+    width:50%;
+    float: left;
+    text-align: left;
+    font-style:normal;
+    font-size: 3vw;
+    margin-left: 50px; margin-bottom:10px;
+    padding-top: 50px; padding-bottom:50px;
+    line-height:1.3;
+    }
+
+  .CUCUCUCU {
+    width:27%;
+    float: right;
+    margin-top:-50%:}
+
+  .EYES_TONY {
+    width:70%;
+    float: center; display: block;
+    padding: 10% 10% 10% 10%; padding-bottom:-20%;
+}
+.blancocococcooc-end-TONY { color: white; font-family: "archivo",monospace;
+    width:70%;
+    float: left;
+    text-align: left;
+    font-style:normal;
+    font-size: 3vw;
+   margin-bottom:10px;
+    padding-top: 10px; padding-bottom:50px;
+    line-height:1.3;
+    }
+.arabiccccccCCCCC{
+   color:white;
+    font-size:100% ;
+    float: right;
+    display: block;
+    text-align: right;
+font-style: normal;
+margin-top:5%;
+margin-left: 100px;
+width:70%;
+padding-left: 50px;
+padding-bottom:4%;
+}
+
+.SMOKE-LIL_0{
+margin-top:5%;
+margin-left: 100px;
+width:30%;
+padding-left: 0px;
+padding-bottom:4%;
+}
+
+.arabiccccccCCCCC000{
+   color:white;
+    font-size:190% ;
+    float: right;
+    display: block;
+    text-align: right;
+font-style: normal;
+margin-top:-11%;
+margin-left: 70px;
+margin-right:20px;
+width:100%;
+padding-left: 20px;
+padding-bottom:2%;
+}
+
+#blancocococcooc-end-margot000 { float:left; display:inline; width: 49%;
+  color: white; font-family: "roboto mono",monospace;
+      float:left; display:inline; width: 50%;
+      font-style:normal;
+      font-size: 3vw;
+    margin-left: 80px; margin-bottom:10px;
+      padding-top: 50px; padding-bottom:50px;
+      line-height:1.3;
+}
+#Right000 { float:left; display:inline; width: 60%;
+  color: white; font-family: "roboto mono",monospace;
+  float:left; display:inline; width: 49%;
+  margin-top:-10px;
+      width:80%;
+
+      text-align: right;
+      font-style:normal;
+      font-size: 2vw; margin-left: 150px;
+      line-height:1.3;
+        }
+#POULOULOU000{ float:left; display:inline; width: 100%;
+  color: white; font-family: "archivo",monospace;
+      font-style:bold;
+      font-size: 5vw;
+    margin-left: 50px; margin-bottom:10px;
+      padding-top: 50px; padding-bottom:50px;
+      line-height:1.3;}
+
+.CADRANT000{float:left; display:inline; width: 89%;
+      font-style:normal;
+    margin-left: 50px; margin-bottom:10px;
+      padding-top: 50px; padding-bottom:50px;
+      line-height:1.3;}
+.CRASH000 {float:right; display:inline; width: 39%;
+      font-style:normal;
+    margin-left: 90px; margin-bottom:10px;
+      padding-top: 50px; padding-bottom:50px;
+      line-height:1.3;}
+.arabic-J_R_3000 {
+   color:white;
+    font-size:6vw ;
+    position: absolute;
+    float: left;
+    display: block;
+    text-align: right;
+font-style: bold;
+margin-top:69%;
+margin-left: 15%;
+width:100%;
+cursor:help;
+}
+
+.arabic-J_R_3000_ {
+   color:white;
+    font-size:4vw ;
+    position: absolute;
+    float: left;
+    display: block;
+    text-align: right;
+font-style: bold;
+margin-top:75%;
+margin-left: 7%;
+width:100%;
+cursor:help;
+}
+
+.ASPHALT000 {float:left; display:inline; width:35%;
+      font-style:normal;
+    margin-left: -59px; margin-bottom:10px; margin-right:0px;
+      padding-top: 50px; padding-bottom:50px;
+      line-height:1.3;
+    transform: scaleX(-1);}
+
+
+
+
+a {
+  color: #ff944d; line-height:1.6;
+}
+
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline dotted; text-decoration-color: white;}
